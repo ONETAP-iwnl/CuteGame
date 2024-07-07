@@ -18,10 +18,10 @@ MonoBehaviour:
   color: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0.31764707}
   specColor: {r: 0.1509434, g: 0.14040403, b: 0.13029549, a: 1}
   smoothness: 0.815
-  enableLightAbsorption: 1
+  enableLightAbsorption: 0
   depthColor: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 1}
   maxDepth: 7.32
-  enableFoam: 1
+  enableFoam: 0
   foamColor: {r: 1, g: 1, b: 1, a: 1}
   foamDistance: 4.17
   enableFoamHQ: 1
@@ -36,7 +36,7 @@ MonoBehaviour:
   rippleHeight: 0.204
   rippleSpeed: 5
   rippleNoiseScale: 1
-  enableWave: 1
+  enableWave: 0
   waveDirection: 206.6
   waveSpeed: 10
   waveHeight: 1
@@ -56,7 +56,7 @@ MonoBehaviour:
   reflectionDistortionStrength: 0
   enableRefraction: 0
   refractionDistortionStrength: 50.2
-  enableCaustic: 1
+  enableCaustic: 0
   causticTexture: {fileID: 2800000, guid: eeacbffe8eb46d343b0d7a9189130772, type: 3}
   causticSize: 20
   causticStrength: 2.17
